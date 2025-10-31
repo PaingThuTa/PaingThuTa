@@ -55,7 +55,7 @@ A responsive habit tracking app with Microsoft login and REST APIs.
 
 - 💼 [LinkedIn](https://linkedin.com/in/paingthuta)  
 - 🧑‍💻 [GitHub](https://github.com/PaingThuTa)  
-- ✉️ [paingthuta@gmail.com](mailto:paingthuta@gmail.com)
+- ✉️ [paingthuta@gmail.com](mailto:paingthuta472@gmail.com)
 
 ---
 
