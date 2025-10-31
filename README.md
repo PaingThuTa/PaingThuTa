@@ -1,16 +1,16 @@
 # 👋 Hello, I’m Paing Thu Ta
 
-## 🧠 About Me
+## About Me
 
-- 💻 Backend & iOS Developer  
-- 🔧 I work with **Node.js**, **Express**, **Swift**, and **Three.js**  
-- 🗄️ Experienced with **MongoDB**, **Redis**, **Docker**, and **Raspberry Pi**  
-- 🎯 Interested in **real-time systems**, **mobile UX**, and **scalable APIs**  
-- 📚 Currently pursuing a **B.Sc. in Computer Science** at *Assumption University of Thailand*  
+-  Backend & iOS Developer  
+-  I work with **Node.js**, **Express**, **Swift**, and **Three.js**  
+-  Experienced with **MongoDB**, **Redis**, **Docker**, and **Raspberry Pi**  
+-  Interested in **real-time systems**, **mobile UX**, and **scalable APIs**  
+-  Currently pursuing a **B.Sc. in Computer Science** at *Assumption University of Thailand*  
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🗺️ [AU Journey](https://apps.apple.com/app/id6751432942)
 **Backend & iOS Developer | March 2025 – October 2025**  
@@ -23,7 +23,7 @@ An interactive **3D university map** that tracks trams in real time.
 
 ---
 
-### 📊 Habit Tracker
+### Habit Tracker
 **Backend Developer | Jan 2025 – March 2025**  
 A responsive habit tracking app with Microsoft login and REST APIs.  
 
@@ -33,7 +33,7 @@ A responsive habit tracking app with Microsoft login and REST APIs.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |-----------|-------|
@@ -45,9 +45,9 @@ A responsive habit tracking app with Microsoft login and REST APIs.
 
 ---
 
-## 🏅 Honors & Awards
+## Honors & Awards
 
-- 🏆 **Outstanding Senior Project Award (2025)** — Recognized for innovative design and valuable contributions to the university community.
+- **Outstanding Senior Project Award (2025)** — Recognized for innovative design and valuable contributions to the university community.
 
 ---
 
