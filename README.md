@@ -4,7 +4,7 @@ I enjoy building scalable APIs, crafting clean Swift code, and learning modern d
 
 ### 📊 GitHub Stats
 <!-- Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaingThuTa&show_icons=true&theme=blue-green&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaingThuTa&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaingThuTa&layout=compact&theme=blue-green&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaingThuTa&layout=compact&theme=tokyonight&hide_border=true)
