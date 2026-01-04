@@ -7,7 +7,7 @@ I enjoy building scalable APIs, crafting clean Swift code, and learning modern d
       <a href="https://github.com/PaingThuTa">
         <img
           height="180em"
-          src="https://cody-stats.vercel.app/api/top-langs/?username=PaingThuTa&layout=compact&theme=dark&hide_border=true"
+          src="https://cody-stats.vercel.app/api/?username=PaingThuTa&layout=compact&theme=dark&hide_border=true"
         />
       </a>
     </p>
