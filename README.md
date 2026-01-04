@@ -15,7 +15,7 @@ I enjoy building scalable APIs, crafting clean Swift code, and learning modern d
   <p align="center">
       <img
         height="180em"
-        src="https://cody-streak-stats-mauve.vercel.app?user=PaingThuTa&theme=dark&hide_border=true"
+        src="https://github-readme-streak-stats-sigma-peach-96.vercel.app/?user=PaingThuTa&theme=dark&hide_border=true"
       />
     </p>
 
