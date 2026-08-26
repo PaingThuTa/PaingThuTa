@@ -1,10 +1,3 @@
-### About Me
-I build backend systems and iOS applications.
-
-Currently looking for backend or full-stack internship/junior roles in Bangkok.
-
----
-
 ### Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
