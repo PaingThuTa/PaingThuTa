@@ -2,8 +2,7 @@
 
   Software Engineer in Bangkok, Thailand. I build backend systems and full-stack apps.
 
-  - Software Engineer Intern at Partner Associates Int'l Co., Ltd.: WebAuthn/FIDO2 passwordless login,
-  identity and access management
+  - Software Engineer Intern at Partner Associates Int'l Co., Ltd.
   - Graduate of Assumption University of Thailand
   - Portfolio and blog: [paingthuta.dev](https://paingthuta.dev)
   - LinkedIn: [linkedin.com/in/paingthuta](https://www.linkedin.com/in/paingthuta/)
