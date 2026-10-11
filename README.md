@@ -1,31 +1,29 @@
-  ## Hi, I'm Paing Thu Ta
-
-  Software Engineer in Bangkok, Thailand. I build backend systems and full-stack apps.
-
-  - Software Engineer Intern at Partner Associates Int'l Co., Ltd.
-  - Graduate of Assumption University of Thailand
-  - Portfolio and blog: [paingthuta.dev](https://paingthuta.dev)
-  - LinkedIn: [linkedin.com/in/paingthuta](https://www.linkedin.com/in/paingthuta/)
-
-  ---
-
-  ### Tech Stack
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-
-
-  ### GitHub Stats
+<h2 align="center">Hi, I'm Paing Thu Ta</h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats-sigma-peach-96.vercel.app/?user=PaingThuTa&theme=dark&hide_border=true"/>
-  </p>
+  Software Engineer in Bangkok, Thailand. I build backend systems and full-stack apps.
+</p>
+<p align="center">
+  <a href="https://paingthuta.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/paingthuta/">LinkedIn</a>
+</p>
+
+---
+
+<h3 align="center">Currently</h3>
+<p align="center">
+  Software Engineer Intern at <b>Partner Associates Int'l Co., Ltd.</b><br>
+  Graduated from <b>Assumption University of Thailand</b>
+</p>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,ts,nodejs,react,nextjs,angular,postgres,redis,docker,swift&perline=6" alt="Go, C#, .NET, TypeScript, Node.js, React, Next.js, Angular, PostgreSQL, Redis, Docker, Swift" />
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-sigma-peach-96.vercel.app/?user=PaingThuTa&theme=dark&hide_border=true" />
+    <img height="180" src="https://github-readme-streak-stats-sigma-peach-96.vercel.app/?user=PaingThuTa&theme=default&hide_border=true" alt="GitHub streak stats" />
+  </picture>
+</p>
